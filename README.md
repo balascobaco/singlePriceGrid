@@ -1,6 +1,6 @@
 # singlePriceGrid
 Single Price Grid challange from FrontEnd Menthor
 
-This is still a work in progress, just a practice run, still learning how to create responsive designs, so this won't work for smartphones.
+This was an interesting experience to get started with media querries for those responsive designs!
 
-Had a lot of fun with this one! Hope to get a chance to reupload it soon. :)
+Had a lot of fun with this one!
